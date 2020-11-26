@@ -1,5 +1,5 @@
 # 小實驗： server request logger
-  
+  ![image](https://github.com/etheriuman/server-request-logger/blob/master/server-request-logger.png)
 ---
 - ## 運行環境需求:
   Node.js
