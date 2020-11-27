@@ -21,7 +21,7 @@ app.use( function (req, res, next) {
   startTomestamp = requestTimestamp
 
   const YYYY = requestTimestamp.getFullYear()
-  const MM = requestTimestamp.getMonth()
+  const MM = requestTimestamp.getMonth() + 1 // Month starts at 0
   const DD = requestTimestamp.getDate()
   const hr = requestTimestamp.getHours()
   const min = requestTimestamp.getMinutes()
