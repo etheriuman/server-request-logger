@@ -1,6 +1,6 @@
 # 小實驗： server request logger
-  一支可以紀錄server端request紀錄的程式。
-  ![image](https://github.com/etheriuman/server-request-logger/blob/master/server-request-logger_image.png)
+一支可以紀錄server端request紀錄的程式。
+![image](https://github.com/etheriuman/server-request-logger/blob/master/server-request-logger_image.png)
 ---
 - ## 運行環境需求:
   Node.js
